@@ -1,4 +1,4 @@
-# Analise-Sobrevivencia
+# Análise de Sobrevivência
 
 Estudo de Sobrevivência para pacientes com câncer de pulmão
 
